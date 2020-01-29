@@ -18,4 +18,4 @@ console.log(fruit);
 const PI = 3.142;
 console.log(PI);
 //PI = 12.32;
-console.log(PI);
+//console.log(PI);
